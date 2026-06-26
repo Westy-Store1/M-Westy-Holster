@@ -7,8 +7,11 @@ Uma solução de posicionamento visual e coldres de armas minimalista e intuitiv
 
 ✦ Especificações
 Compatibilidade · Suporte nativo para vRP, QBCore, ESX e modo standalone.
+
 Performance · Estrutura leve e otimizada (baixíssimo consumo no resmon).
+
 Instalação · Configuração simplificada e adaptável.
+
 Dependência · Requer a biblioteca **[ox_lib](https://github.com/overextended/ox_lib)** instalada e ativa no servidor.
 
 ✦ Funcionalidades
