@@ -4,6 +4,7 @@ Uma solução de posicionamento visual e coldres de armas minimalista e intuitiv
 
 <img width="1672" height="941" alt="m-westy-holster" src="https://github.com/user-attachments/assets/429c9f1d-963d-4197-bb79-81a6a67e1e6b" />
 
+
 ✦ Especificações
 Compatibilidade · Suporte nativo para vRP, QBCore, ESX e modo standalone.
 Performance · Estrutura leve e otimizada (baixíssimo consumo no resmon).
