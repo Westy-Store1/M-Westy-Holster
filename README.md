@@ -1,6 +1,7 @@
 # M-Westy Holster -- QBOX, QBCore, ESX, vRP Creative e Standalone.
 
 Sistema avançado de posicionamento visual de armas no corpo para servidores de **FiveM**. Esta versão foi totalmente otimizada para oferecer o máximo de desempenho com o menor impacto de processamento possível (Resmon constante em `0.00ms`).
+<img width="1672" height="941" alt="a" src="https://github.com/user-attachments/assets/ee649aa8-a001-45db-b56f-30222dda56e8" />
 
 ---
 
@@ -28,3 +29,9 @@ Para instruções detalhadas de como instalar e configurar no seu servidor, cons
 * Criado originalmente por **M-Westy**.
 * Otimizações de performance e integração com Qbox adicionadas.
 * Licenciado sob os termos de livre uso para servidores de FiveM.
+
+##PREVIEW: 
+
+<img width="941" height="1672" alt="b" src="https://github.com/user-attachments/assets/0b1ba018-3bc8-426f-a65f-df643331943d" />
+
+<img width="1644" height="957" alt="c" src="https://github.com/user-attachments/assets/9507fa1a-31c4-439d-81c4-80362f1e8b87" />
